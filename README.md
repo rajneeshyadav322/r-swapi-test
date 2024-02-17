@@ -46,6 +46,6 @@ Add an integration test for testing the modal opens with the correct person’s 
 
 
 # Delivery Instructions
-- Open a Pull Request to this Github repository.
+- Fork this Github repository and add you changes.
 - Send a video using Loom answering the proposed questions, explaining your decisions and presenting the code structure.
 
