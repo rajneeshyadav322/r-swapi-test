@@ -42,6 +42,7 @@ Add an integration test for testing the modal opens with the correct person’s 
 
 1. Implement motion/animation transitions for the card components. Surprise us by choosing for yourself which aspects to implement.
 2. We recommend you follow strictly our React stack including javascript, [Chakra-UI](https://chakra-ui.com/)/[Material-UI](https://mui.com/material-ui/getting-started/), [Framer Motion](https://www.framer.com/motion/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro). But it is not a requirement.
+3. Time to submit the project is 3 days from the time you receive the project. 1 day grace if you received this task after 3pm IST.
 
 
 
