@@ -46,7 +46,6 @@ Add an integration test for testing the modal opens with the correct person’s 
 
 
 # Delivery Instructions
-
-- Send a video using [Loom](https://www.loom.com/) answering the proposed questions, explaining your decisions and presenting the code structure.
-
+- Open a Pull Request to this Github repository.
+- Send a video using Loom answering the proposed questions, explaining your decisions and presenting the code structure.
 
